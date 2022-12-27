@@ -1,0 +1,14 @@
+{
+  "folders": {
+    "root": {
+      "id": "root",
+      "name": "/",
+      "parentId": ""
+    }
+  },
+  "pages": {
+    "home": "root",
+    "8d64c6da-9ecd-4ea2-9a35-a840bf6ffab9": "root",
+    "459b926f-248d-49f9-a733-1d9b839c7a67": "root"
+  }
+}

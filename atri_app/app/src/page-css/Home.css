@@ -1,0 +1,58 @@
+.p-Home.Header_Flex2 {
+display: flex;
+align-items: center;
+justify-content: space-between;
+background-color: #171515;
+color: #ffffffff;
+height: 40px;
+}
+.p-Home.Div5 {
+align-self: center;
+}
+.p-Home.Flex3 {
+display: flex;
+align-items: center;
+flex-direction: column;
+justify-content: center;
+height: 100%;
+row-gap: 10px;
+}
+.p-Home.Header_TextBox2 {
+color: #ffffffff;
+align-self: center;
+}
+.p-Home.Link17 {
+padding-right: 10px;
+}
+.p-Home.Link20 {
+padding-left: 10px;
+padding-right: 10px;
+align-self: center;
+}
+.p-Home.Link21 {
+align-self: center;
+}
+.p-Home.TextBox3 {
+font-size: 100px;
+}
+.p-Home.TextBox4 {
+;
+}
+.p-Home.Button1 {
+color: #fff;
+background-color: #1890ff;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #1890ff;
+cursor: pointer;
+user-select: none;
+}
